@@ -134,7 +134,6 @@ public class Main {
     frame.add(totalLabel);
     frame.setVisible(true);
     frame.setSize(400, 500);
-    frame.setLayout(null);
 
     System.out.println("Hello world!");
   }
