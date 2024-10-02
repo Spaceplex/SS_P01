@@ -59,7 +59,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 
-public class Main {
+public class SS_P01 {
 
   public static int mealOption, dormOption = 0;
   public static int total = 0;
@@ -134,7 +134,5 @@ public class Main {
     frame.add(totalLabel);
     frame.setVisible(true);
     frame.setSize(400, 500);
-
-    System.out.println("Hello world!");
   }
 }
